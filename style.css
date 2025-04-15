@@ -79,7 +79,7 @@ main{
     align-items: center;
     margin: 0 auto;
     position: relative;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 .card{
     background-color: #FBEFFE;
@@ -130,7 +130,6 @@ main{
     right: 0;
 }
 .div-menu{
-    height: 600px;
     z-index: -2;
     position: relative;
 }
@@ -150,7 +149,7 @@ main{
     font-weight: 100;
     position: absolute;
     top: 20px;
-    left: 90px;
+    left: 80px;
 }
 .stars{
     position: absolute;
@@ -199,4 +198,7 @@ main{
     position: relative;
     justify-content: center;
     align-items: center;
+}
+.before-menu{
+    margin-bottom: 200px;
 }
